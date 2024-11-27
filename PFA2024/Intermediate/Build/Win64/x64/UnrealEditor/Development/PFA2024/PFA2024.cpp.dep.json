@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\magna\\fichiers\\eartsup\\pfa2024\\pfa2024\\source\\pfa2024\\pfa2024.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\magna\\fichiers\\eartsup\\pfa2024\\pfa2024\\intermediate\\build\\win64\\x64\\pfa2024editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\magna\\fichiers\\eartsup\\pfa2024\\pfa2024\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pfa2024\\definitions.pfa2024.h",
+            "c:\\users\\magna\\fichiers\\eartsup\\pfa2024\\pfa2024\\source\\pfa2024\\pfa2024.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PFA2024",
+			"Path": "..\\Source\\PFA2024.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PFA2024Editor",
+			"Path": "..\\Source\\PFA2024Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

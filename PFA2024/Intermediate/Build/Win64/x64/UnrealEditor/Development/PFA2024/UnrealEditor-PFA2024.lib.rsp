@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PFA2024.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Magna\Fichiers\EartSup\PFA2024\PFA2024\Intermediate\Build\Win64\x64\PFA2024Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Magna\Fichiers\EartSup\PFA2024\PFA2024\Intermediate\Build\Win64\x64\UnrealEditor\Development\PFA2024\PFA2024.cpp.obj"
+"C:\Users\Magna\Fichiers\EartSup\PFA2024\PFA2024\Intermediate\Build\Win64\x64\UnrealEditor\Development\PFA2024\Default.rc2.res"
+/OUT:"C:\Users\Magna\Fichiers\EartSup\PFA2024\PFA2024\Intermediate\Build\Win64\x64\UnrealEditor\Development\PFA2024\UnrealEditor-PFA2024.lib"
